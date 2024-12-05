@@ -15,7 +15,7 @@ export default function Proceso() {
                             <div className='font-extrabold text-indigo-600/20 text-9xl absolute ml-48'>1</div>
                         </RevealOnScroll>
                         <p className='font-bold text-gray-900 text-lg'>Llamada para recopilar tus datos</p>
-                        <p className='font-regular text-lg'>Party we years to order allow asked of. We so opinion friends me message as delight.</p>
+                        <p className='font-regular text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi iure impedit.</p>
                     </RevealOnScroll>
                 </div>
 
@@ -28,7 +28,7 @@ export default function Proceso() {
                             <div className='font-extrabold text-indigo-600/20 text-9xl absolute ml-48'>2</div>
                         </RevealOnScroll>
                         <p className='font-bold text-gray-900 text-lg'>Configuración de servicios</p>
-                        <p className='font-regular text-lg'>His defective nor convinced residence own. Connection has put impossible own apartments boisterous.</p>
+                        <p className='font-regular text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </RevealOnScroll>
                 </div>
 
@@ -41,7 +41,7 @@ export default function Proceso() {
                             <div className='font-extrabold text-indigo-600/20 text-9xl absolute ml-48'>3</div>
                         </RevealOnScroll>
                         <p className='font-bold text-gray-900 text-lg'>Implementación de servicios</p>
-                        <p className='font-regular text-lg'>From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly.</p>
+                        <p className='font-regular text-lg'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora quam fuga quos adipisci velit rem.</p>
                     </RevealOnScroll>
                 </div>
             </div>

@@ -14,7 +14,7 @@ export default function Caracteristicas() {
                         </svg>
 
                         <p className='font-bold text-2xl text-gray-900 mt-6'>Offending belonging</p>
-                        <p className='font-regular my-3 leading-relaxed'>Letter of on become he tended active enable to. Vicinity relation sensible sociable surprise screened no up as.</p>
+                        <p className='font-regular my-3 leading-relaxed'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum nemo recusandae incidunt.</p>
                     </div>
                 </RevealOnScroll>
 
@@ -25,7 +25,7 @@ export default function Caracteristicas() {
                         </svg>
 
                         <p className='font-bold text-2xl text-gray-900 mt-6'>Offending belonging</p>
-                        <p className='font-regular my-3 leading-relaxed'>Letter of on become he tended active enable to. Vicinity relation sensible sociable surprise screened no up as.</p>
+                        <p className='font-regular my-3 leading-relaxed'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque dolorem, esse nostrum porro.</p>
                     </div>
                 </RevealOnScroll>
 
@@ -36,7 +36,7 @@ export default function Caracteristicas() {
                         </svg>
 
                         <p className='font-bold text-2xl text-gray-900 mt-6'>Offending belonging</p>
-                        <p className='font-regular my-3 leading-relaxed'>Letter of on become he tended active enable to. Vicinity relation sensible sociable surprise screened no up as.</p>
+                        <p className='font-regular my-3 leading-relaxed'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque dolorem, esse nostrum porro.</p>
                     </div>
                 </RevealOnScroll>
             </div>
